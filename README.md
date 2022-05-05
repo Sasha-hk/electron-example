@@ -1,6 +1,30 @@
 # Electron tutorial
 
+Electron app, example.
+
+## Development mode
+
+```sh
+yarn start
+```
+
 ## Build
+
+### Linux
+
+Run the following:
+
+```sh
+yarn run build:linux
+```
+
+### MacOS
+
+Run the following:
+
+```sh
+yarn run build:mac
+```
 
 ### Windows
 
@@ -22,26 +46,4 @@ In docker run this:
 
 ```sh
 yarn run build:windows
-```
-
-### Linux
-
-Run the following:
-
-```sh
-yarn run build:linux
-```
-
-### MacOS
-
-Run the following:
-
-```sh
-yarn run build:mac
-```
-
-## Development mode
-
-```sh
-yarn start
 ```
