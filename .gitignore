@@ -1,3 +1,7 @@
+# dirs
 /node_modules
 /dist
 /out
+
+# files
+yarn.lock
